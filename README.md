@@ -11,10 +11,3 @@ Eh bien, **oublie ça**. Avec **Winpasmax**, on a pris l’idée, on l’a un pe
 - ⚽ Les matchs de foot
 
 ---
-
-### 🏆 **Winpasmax, c’est aussi :**  
-✅ **Des mises qui ne te ruineront pas** (parce que tu n’as déjà pas grand-chose).  
-✅ **Une interface intuitive** (aussi claire qu’un tableau Excel).  
-✅ **Des gains**… qu’on ne garantit pas, mais ça fait partie du charme, non ?  
-
----
