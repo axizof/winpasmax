@@ -11,8 +11,42 @@ Eh bien, **oublie ça**. Avec **Winpasmax**, on a pris l’idée, on l’a un pe
 - ⚽ Les matchs de foot
 
 
--
-avec le temps impartie toute les features non évidament pas pu être ajouté , on n'a un bon 90% de l'app il manque juste le traitement de la mise , le bookmaker recoie les matches , peut mettre uen côte , le matche apparaitera donc sur la main page , on peut parrier dessus , on n'a un panier dynamique , l'info et envoyé on vérifie son solde que ce soit un bon paris etc.. que il na pas déjà parier sur un des matches etc.. mais il manque du traitement derrière pour initier un trade réelement et que le front nous envoie quelque informatinos , les matches terminer apparraissent en bas dans une zone dédier au match terminer avec leur score finaux.
--
+### ⚙️ **Avancement et fonctionnalités**
+Avec le temps imparti, toutes les fonctionnalités prévues n'ont pas pu être ajoutées, mais nous avons atteint un bon **90% de l'application**. Voici ce qui est déjà opérationnel :  
 
-pour installer l'application , il suffit d'importe le fichier sql , et de mettre les fichier n'importe ou mais dans un même dossier , ensuite changer les identifiant de connection dans les fichiers on n'a pas pris le temps d'avoir quelque chose de 100% propore au vu du manque de temps
+1. **Gestion des matchs :**  
+   - Le bookmaker peut recevoir les matchs et leur attribuer des cotes.  
+   - Les matchs apparaissent automatiquement sur la page principale.  
+
+2. **Pari interactif :**  
+   - Les utilisateurs peuvent parier sur les matchs grâce à un panier dynamique.  
+   - Vérifications incluses :
+     - Solde disponible de l’utilisateur.  
+     - Validité du pari (pas de doublons sur le même match).  
+
+3. **Zone dédiée aux matchs terminés :**  
+   - Une section affiche les matchs terminés avec leurs scores finaux.  
+
+### 🚧 **Fonctionnalités manquantes :**
+- **Traitement des mises** :  
+  Actuellement, il manque la gestion en arrière-plan pour initier un trade réel.  
+- **Communication front-back** :  
+  Le front doit encore envoyer certaines informations nécessaires pour compléter le processus de pari.
+
+---
+
+### 📦 **Installation de l'application**
+Pour installer et utiliser l'application :  
+
+1. **Base de données :**  
+   - Importer le fichier SQL fourni pour configurer la base de données.  
+
+2. **Fichiers :**  
+   - Placer tous les fichiers dans un **même dossier** (n'importe où sur votre système).  
+
+3. **Configuration :**  
+   - Modifier les identifiants de connexion à la base de données dans les fichiers concernés.
+
+💡 *Note : Le projet n’est pas encore 100% propre, par manque de temps, mais il reste fonctionnel pour une utilisation de base.* 🛠️
+
+---
