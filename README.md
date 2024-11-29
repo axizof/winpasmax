@@ -10,4 +10,7 @@ Eh bien, **oublie ça**. Avec **Winpasmax**, on a pris l’idée, on l’a un pe
 💡 **Parie sur tout ce qui bouge** :  
 - ⚽ Les matchs de foot
 
+
+
+avec le temps impartie toute les features non évidament pas pu être ajouté , on n'a un bon 90% de l'app il manque juste le traitement de la mise , le bookmaker recoie les matches , peut mettre uen côte , le matche apparaitera donc sur la main page , on peut parrier dessus , on n'a un panier dynamique , l'info et envoyé on vérifie son solde que ce soit un bon paris etc.. que il na pas déjà parier sur un des matches etc.. mais il manque du traitement derrière pour initier un trade réelement et que le front nous envoie quelque informatinos , les matches terminer apparraissent en bas dans une zone dédier au match terminer avec leur score finaux.
 ---
