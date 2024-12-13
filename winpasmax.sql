@@ -1,11 +1,4 @@
--- phpMyAdmin SQL Dump
--- version 5.2.1
--- https://www.phpmyadmin.net/
---
--- Hôte : localhost:3306
--- Généré le : ven. 29 nov. 2024 à 15:56
--- Version du serveur : 10.6.20-MariaDB
--- Version de PHP : 8.3.14
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -17,9 +10,7 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
 
---
--- Base de données : `peyo5877_winpasmax`
---
+
 
 -- --------------------------------------------------------
 
